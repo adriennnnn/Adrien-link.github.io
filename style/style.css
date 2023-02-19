@@ -22,8 +22,11 @@ body{
 }
 .listing .box-img{
     width: 25%;
-    height: 100%;
     margin-right: 20px;
+    background-repeat: repeat;
+}
+.listing li img{
+    min-height: 100%;
 }
 .listing .meta-box{
     flex: 1;
