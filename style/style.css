@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(48, 48, 48);
+    text-align: center;
+    font-family: sans-serif;
+}
+.listing{
+
+}
+.listing ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.listing li{
+    border: none;
+    background-color: rgb(63, 63, 63);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.listing .box-img{
+    width: 25%;
+    margin-right: 20px;
+}
+.listing .meta-box{
+    flex: 1;
+}
+.listing a {
+        text-decoration: none;
+}
+
+
+
+
+h1{
+    color: white;
+
+}
+h2{
+    color: white;
+
+}
+p{
+    color: white;
+}
